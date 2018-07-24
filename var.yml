@@ -1,0 +1,4 @@
+vars:
+        age_path: "{{mahendra.name}}/demo/"
+
+{{vivek.name}}
